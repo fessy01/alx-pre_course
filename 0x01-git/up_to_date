@@ -1,0 +1,21 @@
+Git command line used
+
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
+
+git config --global user.email "you@example.
+
+git config --global user.name "Your Name"
+
+git add .
+
+git commit -m "commit message"
+
+git push
+
+git checkout -b branchname
+
+git push origin branchname
+
+git pull
+
+git checkout master
